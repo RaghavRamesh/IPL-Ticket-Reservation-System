@@ -1,4 +1,7 @@
-TheWall
+IPL Ticket Reservation System
 =======
 
-IPL Ticket Reservation System, a Java - MySQL desktop application 
+What is it?
+
+IPL Ticket Reservation system in a desktop application written in Java that follows MVC framework. It uses MySQL DBMS
+for the backend.
